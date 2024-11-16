@@ -3,6 +3,9 @@
 ### **🌟 Introduction**  
 This project focuses on creating a **Sales Report System** for Elite Retails to analyze sales performance. The report includes insights like total sales, sales by product category, regional performance, and trends over time. The goal is to help Elite Retails make better decisions, improve strategies, and boost business growth.  
 
+Project Link-
+https://app.powerbi.com/groups/me/reports/eb9c485e-42f3-43db-b444-6e568ea175ce/bd2e1696bf5ba1bab153?experience=power-bi
+
 ---
 
 ### **📂 Data Sources**  
